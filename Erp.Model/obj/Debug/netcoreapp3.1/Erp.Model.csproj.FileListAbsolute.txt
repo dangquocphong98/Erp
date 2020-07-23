@@ -1,0 +1,12 @@
+C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.deps.json
+C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.dll
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.csprojAssemblyReference.cache
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.AssemblyInfoInputs.cache
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.AssemblyInfo.cs
+C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.runtimeconfig.json
+C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.runtimeconfig.dev.json
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.genruntimeconfig.cache
+C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.pdb
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.dll
+C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.pdb

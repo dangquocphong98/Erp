@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Erp.Model;
+using Erp.Web.Service.StaffService;
+using Erp.Web.Service.TimekeepingHistoryService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +30,9 @@ namespace Erp
             services.AddControllersWithViews();
             var connectionString = Configuration["mysqlconnection:connectionString"];
             services.AddDbContext<ErpContext>(o => o.UseMySql(connectionString));
+
+            services.AddScoped<ITimekeepingHistoryService, TimekeepingHistoryService>();
+            services.AddScoped<IStaffService, StaffService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

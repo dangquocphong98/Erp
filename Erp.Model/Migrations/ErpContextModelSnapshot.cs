@@ -59,6 +59,9 @@ namespace Erp.Model.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
+                    b.Property<int>("type")
+                        .HasColumnType("int");
+
                     b.HasKey("CodeMachine");
 
                     b.ToTable("Timekeepers");

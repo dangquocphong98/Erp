@@ -10,3 +10,15 @@ C:\Users\Phong\source\repos\Erp\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.pdb
 C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.csproj.CoreCompileInputs.cache
 C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.dll
 C:\Users\Phong\source\repos\Erp\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.pdb
+C:\Users\dell\Documents\project\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.deps.json
+C:\Users\dell\Documents\project\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.runtimeconfig.json
+C:\Users\dell\Documents\project\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.runtimeconfig.dev.json
+C:\Users\dell\Documents\project\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.dll
+C:\Users\dell\Documents\project\Erp.Model\bin\Debug\netcoreapp3.1\Erp.Model.pdb
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.csprojAssemblyReference.cache
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.AssemblyInfo.cs
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.dll
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.pdb
+C:\Users\dell\Documents\project\Erp.Model\obj\Debug\netcoreapp3.1\Erp.Model.genruntimeconfig.cache

@@ -6,21 +6,24 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Erp.Models;
+using Erp.Web.Service.StaffService;
 
 namespace Erp.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        readonly IStaffService _staff;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IStaffService staff)
         {
             _logger = logger;
+            _staff = staff;
         }
 
         public IActionResult Index()
         {
-            return View();
+            return View(_staff.FindAll());
         }
 
         public IActionResult Privacy()

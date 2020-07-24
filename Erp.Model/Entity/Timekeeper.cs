@@ -10,5 +10,6 @@ namespace Erp.Model.Entity
         [Key]
         public string CodeMachine { get; set; }
         public string Name { get; set; }
+        public int type { get; set; }
     }
 }

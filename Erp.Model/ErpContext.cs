@@ -16,5 +16,6 @@ namespace Erp.Model
         public DbSet<Staff> Staffs { get; set; }
         public DbSet<Timekeeper> Timekeepers { get; set; }
         public DbSet<TimekeepingHistory> TimekeepingHistories { get; set; }
+        public DbSet<Role> Roles { get; set; }
     }
 }
